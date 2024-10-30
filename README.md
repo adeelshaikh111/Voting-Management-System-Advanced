@@ -1,4 +1,4 @@
-**Voting Management System **
+**Voting Management System**
 
 
 This project is a web-based Voting Management System developed using Java and MySQL, bringing efficient voting data management to the web. Key features include:
