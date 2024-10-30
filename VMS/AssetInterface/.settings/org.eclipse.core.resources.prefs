@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/Parties.java=UTF-8
+encoding//src/main/PartiesService.java=UTF-8
+encoding//src/main/PartiesServiceLocator.java=UTF-8
+encoding//src/main/PartiesSoapBindingStub.java=UTF-8
+encoding//src/main/Registrationinfo.java=UTF-8
+encoding//src/main/RegistrationinfoService.java=UTF-8
+encoding//src/main/RegistrationinfoServiceLocator.java=UTF-8
+encoding//src/main/RegistrationinfoSoapBindingStub.java=UTF-8
+encoding//src/main/Voter.java=UTF-8
+encoding//src/main/VoterService.java=UTF-8
+encoding//src/main/VoterServiceLocator.java=UTF-8
+encoding//src/main/VoterSoapBindingStub.java=UTF-8
